@@ -1,6 +1,4 @@
 
-
-<<<<<<< HEAD
 ### Book Management System (Laravel)
 
 A simple Laravel-based application to manage books and publisher. This project includes CRUD functionality and basic relational data handling.
@@ -24,7 +22,6 @@ These steps assume:
 Navigate to project folder (where artisan file is located):
 cd path/to/your/project
 
->>>>>>> e44a172 (changes)
 
 -You have already downloaded/extracted Laravel project (e.g., from a .zip file)
 
