@@ -9,7 +9,9 @@ These steps assume:
 -You're working on a local machine
 
 -You have PHP, Composer, MySQL installed
-=======
+
+-You have already downloaded/extracted this project (e.g., from a .zip file)
+
 ## ✅Setup Instructions 
 
 These steps assume:
